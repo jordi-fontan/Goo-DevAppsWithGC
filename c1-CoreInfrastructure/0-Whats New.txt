@@ -1,0 +1,14 @@
+Here are some of
+the recent updates and improvements in this course. We've improved the coverage
+of Kubernetes Engine, and added an
+explanation of Anthos, which is Google Cloud's
+platform for the hybrid cloud, that's built on open source technologies,
+like Kubernetes. We've also updated
+the course to reflect GCPs new regions and
+product releases. Throughout the course,
+we've improved our videos accessibility so that
+they'll better serve the needs of viewers
+with reduced vision. Thank you for taking
+part in this course. We look forward to
+helping you explore Google Cloud Platform and
+to receiving your feedback.
