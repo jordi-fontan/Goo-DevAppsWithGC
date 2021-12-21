@@ -1,0 +1,31 @@
+You're probably thinking,
+how can I make sure I don't accidentally run
+up a big GCP bill? GCP provides four tools to
+help: budgets and alerts, billing, export,
+reports and quotas. Let's look at budgets
+and alerts first. You can define budgets either per billing account or
+per GCP project. A budget can be a fixed limit or you can tie it
+to another metric. For example, a percentage of
+the previous month spend. To be notified when costs approach your budget
+limit, create an alert. For example, with
+a budget limit of $20,000 and an alert
+set at 90 percent, you'll receive
+a notification alert when your expenses reach $18,000. Alerts are generally
+set at 50 percent, 90 percent, and 100 percent. But you can customize that. Billing export lets you store detailed
+billing information in places where it's easy to retrieve for
+more detailed analysis, such as a BigQuery dataset
+or a Cloud storage bucket. Reports is a visual tool in the GCP console that allows you to monitor
+your expenditure. GCP also implements quotas, which protect both account owners and the GCP community as a whole. Quotas are designed to prevent the over-consumption
+of resources, whether because of error
+or malicious attack. There are two types
+of quotas: rate quotas and allocation quotas. Both get applied at the level
+of the GCP project. Rate quotas reset
+after a specific time. For example, by default, the Kubernetes Engine service sets a quota of a 1000 calls to its API from each GCP project
+every 100 seconds. After that 100 seconds, the limit is reset. Allocation quotas,
+on the other hand, govern the number of resources you can have
+in your projects. For example, by default, each GCP project has
+a quota allowing it no more than five Virtual
+Private Cloud networks. Although projects all start
+with the same quotas, you can change some
+of them by requesting an increase from
+Google Cloud support.

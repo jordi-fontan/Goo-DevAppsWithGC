@@ -1,0 +1,16 @@
+Google was the first major
+Cloud provider to deliver per second billing for
+its Infrastructure as a Service Compute offering,
+Google Compute Engine. Fine-grain billing is
+a big cost savings for workloads that are bursty, which is a lot of them. Many of the best-known GCP
+services billed by the second, including Compute Engine and Kubernetes Engine
+and you'll learn about them and others
+in this course. Compute Engine offers automatically applied sustained
+use discounts which are automatic discounts that
+you get for running a virtual machine instance for a significant portion
+of the billing month. Specifically, when you run an instance for more than
+25 percent of a month, Compute Engine automatically
+gives you a discount for every incremental minute
+you use for that instance. Compute Engines Custom
+Virtual Machine types lets you fine-tune virtual machines
+for their applications, which in turn lets you tailor your pricing for your workloads. Try the online pricing calculator to help estimate your costs.
